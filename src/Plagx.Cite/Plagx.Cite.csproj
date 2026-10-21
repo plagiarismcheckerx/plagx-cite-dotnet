@@ -9,7 +9,7 @@
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
 
     <PackageId>Plagx.Cite</PackageId>
-    <Version>0.2.1</Version>
+    <Version>0.2.2</Version>
     <Title>Plagx Cite: APA and MLA citation generator</Title>
     <Authors>Plagiarism Checker X</Authors>
     <Company>Plagiarism Checker X</Company>

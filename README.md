@@ -128,24 +128,13 @@ Errors are duplicates, invalid DOIs and DOIs that can't be found (with `checkDoi
 dotnet test
 ```
 
-<h2>Plagx Cite - Free Citation & Reference Toolkit</h2>
+## Plagx Cite - Free Citation & Reference Toolkit
 
-<p>
- An open-source citation utility for students, researchers and developers.
- Format references, organize citations and manage bibliographies.
- </p>
+An open-source citation utility for students, researchers and developers. Format references, organize citations and manage bibliographies.
 
-<p>
- Developed by Plagiarism Checker X.
- </p>
+Developed by Plagiarism Checker X.
 
-<p>
- Plagx Cite helps with source attribution; it does not detect plagiarism
- or AI-generated text. For full document checks, explore
- <a href="https://plagiarismcheckerx.com/?utm_source=plagx-cite-dotnet&utm_medium=readme&utm_campaign=plagx&utm_content=about-cta">Plagiarism Checker X</a>
- and its
- <a href="https://plagiarismcheckerx.com/ai-content-detector?utm_source=plagx-cite-dotnet&utm_medium=readme&utm_campaign=plagx&utm_content=about-ai-detector">AI Content Detector</a>.
- </p>
+Plagx Cite helps with source attribution; it does not detect plagiarism or AI-generated text. For full document checks, explore [Plagiarism Checker X](https://plagiarismcheckerx.com/?utm_source=plagx-cite-dotnet&utm_medium=readme&utm_campaign=plagx&utm_content=about-cta) and its [AI Content Detector](https://plagiarismcheckerx.com/ai-content-detector?utm_source=plagx-cite-dotnet&utm_medium=readme&utm_campaign=plagx&utm_content=about-ai-detector).
 
 ## License
 

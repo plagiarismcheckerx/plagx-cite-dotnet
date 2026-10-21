@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.2.2: 2026-10-21
+
+- README: the closing section is now Markdown, so it displays correctly on nuget.org
+
 ## 0.2.1: 2026-10-21
 
 First .NET release, matching Plagx Cite 0.2.1 for JavaScript.
