@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <LangVersion>latest</LangVersion>
+    <RootNamespace>Plagx.Cite</RootNamespace>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+
+    <PackageId>Plagx.Cite</PackageId>
+    <Version>0.2.1</Version>
+    <Title>Plagx Cite: APA and MLA citation generator</Title>
+    <Authors>Plagiarism Checker X</Authors>
+    <Company>Plagiarism Checker X</Company>
+    <Copyright>Copyright (c) 2026 Plagiarism Checker X</Copyright>
+    <Description>Free APA and MLA citation generator and reference checker for .NET: reference lists, in-text citations, BibTeX import/export, DOI to citation and duplicate reference detection. By Plagiarism Checker X.</Description>
+    <PackageTags>citation;citation-generator;apa;apa-citation;mla;mla-citation;bibliography;works-cited;reference-list;in-text-citation;bibtex;doi;csl-json;academic-writing</PackageTags>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageProjectUrl>https://github.com/plagiarismcheckerx/plagx-cite-dotnet</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/plagiarismcheckerx/plagx-cite-dotnet.git</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageReleaseNotes>https://github.com/plagiarismcheckerx/plagx-cite-dotnet/blob/main/CHANGELOG.md</PackageReleaseNotes>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\..\README.md" Pack="true" PackagePath="\" />
+  </ItemGroup>
+
+</Project>
