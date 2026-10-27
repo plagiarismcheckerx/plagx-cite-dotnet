@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.2.3: 2026-10-27
+
+- Documentation updates. No changes to the API or output.
+
 ## 0.2.2: 2026-10-21
 
 - README: the closing section is now Markdown, so it displays correctly on nuget.org
